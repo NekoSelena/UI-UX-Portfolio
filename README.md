@@ -1,8 +1,10 @@
-# Epitech Projects - UI/UX Portfolio
+# Epitech Projects - UI/UX Portfolio 
 This repository lists some of the prototypes and graphic elements made during my schooling at EPITECH Technology.
 It can be HUB Projects (personnal projects but evaluated by the school) or PGE 3rd Year Projects (App Dev track).
 
-### **I own this content, so remember that plagiarism is prohibited.**
+```diff
+-/!\- I own this content, so remember that plagiarism is prohibited. -/!\-
+```
 
 Enjoy !
 
@@ -12,7 +14,18 @@ On this project, I am **Designer User Experience & User Interface**, responsible
 
 ![Graphical chart cover](https://user-images.githubusercontent.com/62648027/142601519-702c64ec-0bc1-4dc1-8cf6-096340830ae3.png)
 
+
   ---> https://www.canva.com/design/DAErTj_oxKg/XhedYC28q2K69VDQME_3IA/view?utm_content=DAErTj_oxKg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+  
+
+I also designed most of the mockup for the first prototype of our product.
+
+![Mockup Forward #1](https://user-images.githubusercontent.com/62648027/145676105-115d7032-d2ad-4445-99b2-45a81160d7c4.png)
+![Mockup Forward #1](https://user-images.githubusercontent.com/62648027/145676214-45e66047-2a57-4ac2-9e8e-d81e928d05cf.png)
+
+
+  ---> https://www.figma.com/proto/OpboIYhWWyTeWnhH0xhZDn/Maquettes-Sprint-%231?page-id=0%3A1&node-id=4%3A2&viewport=299%2C48%2C0.17&scaling=min-zoom&starting-point-node-id=4%3A2
+
 
 ----------
 
